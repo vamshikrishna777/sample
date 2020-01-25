@@ -6,6 +6,7 @@ def search(ss,se,u,v,si):
         return 100000000
     mid=(ss+se)//2
     return min(search(ss,mid,u,v,(2*si)+1),search(mid+1,se,u,v,(2*si)+2))
+    #this is a test comment for git -a commit
 def cons(l,ss,se,si):
     #print(ll)
     if ss==se:
