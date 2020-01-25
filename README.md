@@ -1,2 +1,2 @@
-# sample
-this is sample
+# segment tree in python
+this is segment tree
