@@ -1,2 +1,2 @@
 # sample
-this is samplel
+this is sample
